@@ -1,0 +1,6 @@
+build a basic vue-cli app
+add http-service
+add socket-service (on,emit) (server and client)
+FRONT: add user-module, user-service
+
+MAKE SURE session works
